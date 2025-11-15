@@ -1,0 +1,3 @@
+[submodule "tex/latex/winston"]
+	path = tex/latex/winston
+	url = git@github.com:winstoncheong/winston-tex.git
